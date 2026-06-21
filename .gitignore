@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+Task3_Face-Detection-Recognition/known_faces/
+Task3_Face-Detection-Recognition/attendance.csv
